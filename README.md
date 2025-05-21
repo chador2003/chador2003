@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://your-banner-image-link.com" alt="Welcome Banner" width="100%" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG2ZR1MtU4WhejF_ZRvD6OR8fti0zLJpYplg&s" alt="Welcome Banner" width="100%" />
 </p>
 
 <div align="center">
