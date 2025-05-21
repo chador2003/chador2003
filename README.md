@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://your-banner-image-link.com" alt="Welcome Banner" width="100%" />
+  <img src="https://www.google.com/imgres?q=hello%20world%20&imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1200%2F1*0KFB17_NGTPB0XWyc4BSgQ.jpeg&imgrefurl=https%3A%2F%2Fmedium.com%2F%40mk.gurucharan%2Fhello-world-323fa2d1732b&docid=GDAsEPCT01gW6M&tbnid=xIxQjS3srlMWvM&vet=12ahUKEwirpOD67LSNAxUmyzgGHQEBFmYQM3oECFoQAA..i&w=1200&h=347&hcb=2&ved=2ahUKEwirpOD67LSNAxUmyzgGHQEBFmYQM3oECFoQAA" alt="Welcome Banner" width="100%" />
 </p>
 
 <!-- Profile + Bio layout -->
