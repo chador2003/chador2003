@@ -9,55 +9,47 @@
 
 ---
 
-## 👤 CHADOR WANGCHUK
+## 👋 About Me – Chador Wangchuk
 
-- 🎓 **B.Sc. in Computer Science (AI & Data Science)**  
-  Gyalpozhing College of Information Technology 🇧🇹  
-- 📍 **Location**: Thimphu, Bhutan  
-- 📧 **Email**: [chadorhdr10plus@gmail.com](mailto:chadorhdr10plus@gmail.com)  
-- 🌐 **Languages**: Dzongkha | English  
-- 🔗 [LinkedIn](https://linkedin.com/in/chador-wangchuk)  
-- 🧠 **Interests**: Cybersecurity, AI/ML, Ethical Hacking, Automation  
-- 🎯 **Goal**: Redefine digital trust through secure AI  
+🎓 I hold a **B.Sc. in Computer Science (AI & Data Science)** from  
+**Gyalpozhing College of Information Technology, Bhutan 🇧🇹**
+
+I’m a developer passionate about **Cybersecurity**, **AI/ML**, and **smart tech solutions**.  
+I enjoy automating digital systems and building intelligent tools that secure ecosystems.
 
 ---
 
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chador-wangchuk)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chadorhdr10plus@gmail.com)
+📍 **Location**: Thimphu, Bhutan  
+📧 **Email**: [chadorhdr10plus@gmail.com](mailto:chadorhdr10plus@gmail.com)  
+🔗 **LinkedIn**: [linkedin.com/in/chador-wangchuk](https://linkedin.com/in/chador-wangchuk)  
+🌐 **Languages**: Dzongkha | English  
+🧠 **Interests**: Ethical Hacking, AI/ML, Automation  
+🎯 **Goal**: Redefine digital trust through secure AI systems
 
 ---
 
-## 💫 About Me
+### 🔭 Currently Working On:
+- Preparing for **CompTIA Security+** and **CEH**
+- Building a role-based **Job Portal** with a MongoDB backend
 
-👋 Hi, I'm **Chador Wangchuk** — passionate about **Cybersecurity**, **AI/ML**, and **smart tech solutions**.  
-I love automating systems and securing digital ecosystems with intelligence.
+### 🤝 Collaborating On:
+- **AI and Data Science** projects  
+- **Cybersecurity** tools and web apps
 
-🔭 **Currently working on:**  
-- CompTIA Security+ & CEH prep  
-- Role-based Job Portal (MongoDB backend)  
+### 👐 Looking for Help With:
+- **ML-powered anomaly/threat detection**  
+- **Cross-platform mobile app development**
 
-🤝 **Collaborating on:**  
-- AI & Data Science projects  
-- Web Dev & Cybersecurity research  
+### 🌱 Currently Learning:
+- **Advanced Penetration Testing**  
+- **DevSecOps with GitLab CI/CD and Docker**
 
-👐 **Need help with:**  
-- ML-powered threat detection  
-- Android/iOS cross-platform dev  
-
-🌱 **Currently learning:**  
-- Advanced Penetration Testing  
-- GitLab CI/CD & DevSecOps  
-
-💬 **Ask Me About:**  
+### 💬 Ask Me About:
 - Flask, MongoDB, Threat Modeling  
-- AI Models & CTF Labs  
+- AI Models, CTF Labs, and Ethical Hacking
 
-⚡ **Fun Fact**:  
-_I build smart systems to secure smarter ones._ 🛡️🤖
-
----
+### ⚡ Fun Fact:
+> _I build smart systems to secure smarter ones._ 🛡️🤖
 
 ## 💻 Tech Stack
 
