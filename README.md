@@ -3,20 +3,12 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG2ZR1MtU4WhejF_ZRvD6OR8fti0zLJpYplg&s" alt="Welcome Banner" width="100%" />
 </p>
 
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-github-id" width="150" style="border-radius: 50%;" />
-</div>
-
----
-
 ## 👤 CHADOR WANGCHUK
 
 - 🎓 **B.Sc. in Computer Science (AI & Data Science)**  
   Gyalpozhing College of Information Technology 🇧🇹  
 - 📍 **Location**: Thimphu, Bhutan  
-- 📧 **Email**: [chadorhdr10plus@gmail.com](mailto:chadorhdr10plus@gmail.com)  
-- 🌐 **Languages**: Dzongkha | English  
-- 🔗 [LinkedIn](https://linkedin.com/in/chador-wangchuk)  
+- 🌐 **Languages**: English | Dzongkha | Sharchop
 - 🧠 **Interests**: Cybersecurity, AI/ML, Ethical Hacking, Automation  
 - 🎯 **Goal**: Redefine digital trust through secure AI  
 
