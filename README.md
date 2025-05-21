@@ -1,82 +1,38 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://www.google.com/imgres?q=hello%20world%20&imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1200%2F1*0KFB17_NGTPB0XWyc4BSgQ.jpeg&imgrefurl=https%3A%2F%2Fmedium.com%2F%40mk.gurucharan%2Fhello-world-323fa2d1732b&docid=GDAsEPCT01gW6M&tbnid=xIxQjS3srlMWvM&vet=12ahUKEwirpOD67LSNAxUmyzgGHQEBFmYQM3oECFoQAA..i&w=1200&h=347&hcb=2&ved=2ahUKEwirpOD67LSNAxUmyzgGHQEBFmYQM3oECFoQAA" alt="Welcome Banner" width="100%" />
-</p>
+# 💫 About Me:
+👋 Hi, I'm CHADOR WANGCHUK!<br>I am a developer passionate about cybersecurity, AI/ML, and smart tech solutions. I love automating and securing digital ecosystems.<br><br>🔭 Currently working on<br>→ Preparing for CompTIA Security+ and CEH exams<br>→ A job portal system with role-based access and MongoDB backend<br><br>🤝 Looking to collaborate on<br>→ AI and Data Science projects<br>→ Web development tools and platforms<br>→ Cybersecurity research and open-source toolkits<br><br>👐 Looking for help with<br>→ Improving real-time threat detection using ML<br>→ Learning app development (Android/iOS or cross-platform)<br><br>🌱 Currently learning<br>→ Advanced penetration testing techniques<br>→ DevSecOps with GitLab CI/CD and Docker<br><br>💬 Ask me about<br>→ Flask, MongoDB, and web security<br>→ AI model development for classification and anomaly detection<br>→ Practical ethical hacking labs and CTF writeups<br><br>⚡ Fun fact<br>→ I believe AI + Cybersecurity will redefine digital trust in the next decade. And yes — I build smart systems to secure smarter ones. 🛡️🤖
 
-<!-- Profile + Bio layout -->
-<table>
-  <tr>
-    <!-- Profile Section -->
-    <td width="30%" align="center" valign="top">
-      <img src="https://avatars.githubusercontent.com/u/your-github-id" alt="Chador Wangchuk" width="150" style="border-radius: 50%;" />
-      <br/><br/>
-      <h3>Chador Wangchuk</h3>
-      <p>
-        AI Engineer | Cybersecurity Developer<br/>
-        Thimphu, Bhutan 🇧🇹<br/>
-        📧 <a href="mailto:chadorhdr10plus@gmail.com">chadorhdr10plus@gmail.com</a><br/>
-        🗣 Dzongkha | English
-      </p>
-      <p>
-        <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-        <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-Website-lightgrey?style=flat-square&logo=firefox-browser" /></a>
-      </p>
-    </td>
 
-    <!-- Bio Section -->
-    <td width="70%" valign="top">
-      <h2>👋 Hello! I'm <span style="color: #f39c12;">Chador</span></h2>
-      <p>
-        I'm a results-driven developer specializing in AI, cybersecurity, and full-stack web development. My mission is to bridge the gap between intelligence and security — creating systems that think, adapt, and defend. From building ML models to fortifying digital infrastructure, I enjoy working at the edge of innovation and impact.
-      </p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/chador-wangchuk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chadorhdr10plus@gmail.com) 
 
-      🔍 **Current Focus:**<br/>
-      - Preparing for **CompTIA Security+** and **CEH**<br/>
-      - Building an **AI-powered anomaly detection engine**<br/>
-      - Working on **penetration testing labs** and real-world simulation projects<br/><br/>
+# 💻 Tech Stack:
 
-      🎯 **Goals:**<br/>
-      - Develop intelligent and secure applications using ML and Python<br/>
-      - Contribute to **open-source cybersecurity** and **ethical hacking** communities<br/>
-      - Achieve certifications in **ethical hacking and cloud security**<br/><br/>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-      💡 **Ask me about:**<br/>
-      - AI + Cybersecurity integrations<br/>
-      - Flask & OpenCV projects<br/>
-      - Ethical hacking, CTFs, and securing systems<br/>
-    </td>
-  </tr>
-</table>
+### 🛡️ Security & DevSecOps
 
----
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%23000000.svg?style=for-the-badge&logoColor=white)
+![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-%23000000.svg?style=for-the-badge&logoColor=white)
+![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-%23000000.svg?style=for-the-badge&logoColor=white)
+![Threat Detection](https://img.shields.io/badge/Threat_Detection-%23000000.svg?style=for-the-badge&logoColor=white)
+![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-%23000000.svg?style=for-the-badge&logoColor=white)
+![DevSecOps](https://img.shields.io/badge/DevSecOps-%230099cc.svg?style=for-the-badge&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-### 🛠️ Tech Stack & Tools
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=chador2003&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=chador2003&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chador2003&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Cybersecurity-232F3E?style=flat-square&logo=protonmail&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chador2003&layout=compact&theme=vision-friendly-dark" />
-  <img src="https://github-readme-stats.vercel.app/api?username=chador2003&show_icons=true&theme=vision-friendly-dark" />
-</p>
-
----
-
-### 🤖 Fun Fact
-
-> 🧠 _“I build smart systems to secure smarter ones.”_  
-> 🔐 Let’s redefine digital trust through AI + Cybersecurity.
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
