@@ -6,77 +6,77 @@
 <!-- Profile + Bio layout -->
 <table>
   <tr>
-    <!-- Left column with profile image and personal info -->
-    <td width="30%" valign="top" align="center">
+    <!-- Profile Section -->
+    <td width="30%" align="center" valign="top">
       <img src="https://avatars.githubusercontent.com/u/your-github-id" alt="Chador Wangchuk" width="150" style="border-radius: 50%;" />
       <br/><br/>
       <h3>Chador Wangchuk</h3>
-      <p>Cybersecurity Enthusiast 🛡️<br/>
-         Python Developer 🐍<br/>
-         AI & ML Explorer 🤖<br/>
-         Location: Thimphu, Bhutan 🇧🇹<br/>
-         Email: <a href="mailto:chadorhdr10plus@gmail.com">chadorhdr10plus@gmail.com</a><br/>
-         🌐 Languages: Dzongkha | English
+      <p>
+        AI Engineer | Cybersecurity Developer<br/>
+        Thimphu, Bhutan 🇧🇹<br/>
+        📧 <a href="mailto:chadorhdr10plus@gmail.com">chadorhdr10plus@gmail.com</a><br/>
+        🗣 Dzongkha | English
       </p>
       <p>
-        <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
-        <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-%F0%9F%8C%90-lightgrey" /></a>
+        <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+        <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-Website-lightgrey?style=flat-square&logo=firefox-browser" /></a>
       </p>
     </td>
 
-    <!-- Right column with description -->
+    <!-- Bio Section -->
     <td width="70%" valign="top">
-      <h2>👋 Hi, I'm <span style="color: #f39c12;">CHADOR!</span></h2>
+      <h2>👋 Hello! I'm <span style="color: #f39c12;">Chador</span></h2>
       <p>
-        I am a developer passionate about cybersecurity, AI/ML, and smart tech solutions. I love automating things, securing systems, and building intelligent tools that make a difference.
+        I'm a results-driven developer specializing in AI, cybersecurity, and full-stack web development. My mission is to bridge the gap between intelligence and security — creating systems that think, adapt, and defend. From building ML models to fortifying digital infrastructure, I enjoy working at the edge of innovation and impact.
       </p>
 
-      🔭 Currently working on:<br/>
-      - CompTIA Security+ & CEH Prep<br/>
-      - Anomaly Detection using Machine Learning<br/>
-      - Penetration Testing Projects<br/><br/>
+      🔍 **Current Focus:**<br/>
+      - Preparing for **CompTIA Security+** and **CEH**<br/>
+      - Building an **AI-powered anomaly detection engine**<br/>
+      - Working on **penetration testing labs** and real-world simulation projects<br/><br/>
 
-      🎯 Goals:<br/>
-      - Build secure AI-powered apps<br/>
-      - Contribute to open-source cybersecurity projects<br/>
-      - Get certified in CEH & Security+<br/><br/>
+      🎯 **Goals:**<br/>
+      - Develop intelligent and secure applications using ML and Python<br/>
+      - Contribute to **open-source cybersecurity** and **ethical hacking** communities<br/>
+      - Achieve certifications in **ethical hacking and cloud security**<br/><br/>
 
-      💬 Ask me about:<br/>
-      - Web Security & Ethical Hacking<br/>
-      - Face Recognition & AI Models<br/>
-      - Python + Flask Projects<br/>
+      💡 **Ask me about:**<br/>
+      - AI + Cybersecurity integrations<br/>
+      - Flask & OpenCV projects<br/>
+      - Ethical hacking, CTFs, and securing systems<br/>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛠️ Skills & Tools
+### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cybersecurity-black?style=flat&logo=protonmail&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cybersecurity-232F3E?style=flat-square&logo=protonmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chador2003&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=chador2003&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chador2003&layout=compact&theme=vision-friendly-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chador2003&show_icons=true&theme=vision-friendly-dark" />
 </p>
 
 ---
 
-### 🧠 Fun Fact
+### 🤖 Fun Fact
 
-💡 _“I build smart systems to secure smarter ones.”_ 🛡️💻
+> 🧠 _“I build smart systems to secure smarter ones.”_  
+> 🔐 Let’s redefine digital trust through AI + Cybersecurity.
 
 ---
