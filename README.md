@@ -1,28 +1,96 @@
-# 💫 About Me:
-👋 Hi, I'm CHADOR WANGCHUK!<br>I am a developer passionate about cybersecurity, AI/ML, and smart tech solutions. I love automating and securing digital ecosystems.<br><br>🔭 Currently working on<br>→ Preparing for CompTIA Security+ and CEH exams<br>→ A job portal system with role-based access and MongoDB backend<br><br>🤝 Looking to collaborate on<br>→ AI and Data Science projects<br>→ Web development tools and platforms<br>→ Cybersecurity research and open-source toolkits<br><br>👐 Looking for help with<br>→ Improving real-time threat detection using ML<br>→ Learning app development (Android/iOS or cross-platform)<br><br>🌱 Currently learning<br>→ Advanced penetration testing techniques<br>→ DevSecOps with GitLab CI/CD and Docker<br><br>💬 Ask me about<br>→ Flask, MongoDB, and web security<br>→ AI model development for classification and anomaly detection<br>→ Practical ethical hacking labs and CTF writeups<br><br>⚡ Fun fact<br>→ I believe AI + Cybersecurity will redefine digital trust in the next decade. And yes — I build smart systems to secure smarter ones. 🛡️🤖
+<!-- Banner -->
+<p align="center">
+  <img src="https://your-banner-link.com" alt="Banner" width="100%" />
+</p>
 
+<table>
+  <tr>
+    <!-- LEFT COLUMN -->
+    <td width="35%" valign="top">
+      
+  <img src="https://avatars.githubusercontent.com/u/your-github-id" width="150" style="border-radius: 50%;" /><br><br>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/chador-wangchuk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chadorhdr10plus@gmail.com) 
+  ### 👤 CHADOR WANGCHUK
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  - 🎓 **Education**: B.Sc. in Computer Science (AI & Data Science)  
+    Gyalpozhing College of Information Technology, Bhutan 🇧🇹  
+  - 📍 **Location**: Thimphu, Bhutan  
+  - 📧 **Email**: [chadorhdr10plus@gmail.com](mailto:chadorhdr10plus@gmail.com)  
+  - 🌐 **Languages**: Dzongkha | English  
+  - 🔗 [LinkedIn](https://linkedin.com/in/chador-wangchuk)  
+  - 🧠 **Interests**: Cybersecurity, AI/ML, Ethical Hacking, Automation  
+  - 🎯 **Goal**: Redefine digital trust through secure AI
 
-### 🛡️ Security & DevSecOps
+  ---
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%23000000.svg?style=for-the-badge&logoColor=white)
-![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-%23000000.svg?style=for-the-badge&logoColor=white)
-![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-%23000000.svg?style=for-the-badge&logoColor=white)
-![Threat Detection](https://img.shields.io/badge/Threat_Detection-%23000000.svg?style=for-the-badge&logoColor=white)
-![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-%23000000.svg?style=for-the-badge&logoColor=white)
-![DevSecOps](https://img.shields.io/badge/DevSecOps-%230099cc.svg?style=for-the-badge&logoColor=white)
-![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+  ### 🌐 Socials:
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chador-wangchuk)
+  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chadorhdr10plus@gmail.com)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=chador2003&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=chador2003&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chador2003&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+    </td>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+    <!-- RIGHT COLUMN -->
+    <td width="65%" valign="top">
+
+  ## 💫 About Me
+  👋 Hi, I'm **CHADOR WANGCHUK** — a developer passionate about **cybersecurity**, **AI/ML**, and **smart tech solutions**.  
+  I love automating and securing digital ecosystems.
+
+  🔭 **Currently working on**  
+  → CompTIA Security+ and CEH prep  
+  → Job portal system with role-based access (MongoDB backend)  
+
+  🤝 **Looking to collaborate on**  
+  → AI, Web Dev & Cybersecurity Projects  
+
+  👐 **Looking for help with**  
+  → Real-time threat detection using ML  
+  → Cross-platform App Dev (Android/iOS)  
+
+  🌱 **Currently learning**  
+  → Penetration testing  
+  → DevSecOps with GitLab CI/CD and Docker  
+
+  💬 **Ask me about**  
+  → Flask, MongoDB, Anomaly Detection  
+  → AI/ML Models & CTF Writeups  
+
+  ⚡ **Fun fact**  
+  > I believe AI + Cybersecurity will redefine digital trust in the next decade.  
+  > _I build smart systems to secure smarter ones._ 🛡️🤖
+
+  ---
+
+  ## 💻 Tech Stack
+
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+  ### 🛡️ Security & DevSecOps
+
+  ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%23000000.svg?style=for-the-badge&logoColor=white)
+  ![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-%23000000.svg?style=for-the-badge&logoColor=white)
+  ![Threat Detection](https://img.shields.io/badge/Threat_Detection-%23000000.svg?style=for-the-badge&logoColor=white)
+  ![DevSecOps](https://img.shields.io/badge/DevSecOps-%230099cc.svg?style=for-the-badge&logoColor=white)
+  ![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-%23000000.svg?style=for-the-badge&logoColor=white)
+  ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+  ---
+
+  ## 📊 GitHub Stats
+
+  ![](https://github-readme-stats.vercel.app/api?username=chador2003&theme=dark&hide_border=false&include_all_commits=true&count_private=false)  
+  ![](https://nirzak-streak-stats.vercel.app/?user=chador2003&theme=dark&hide_border=false)  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chador2003&theme=dark&hide_border=false&layout=compact)
+
+    </td>
+  </tr>
+</table>
